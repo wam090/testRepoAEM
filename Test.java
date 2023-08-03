@@ -16,6 +16,7 @@ public class Test {
         System.out.println("Cleansing - Update 6.5 on Local to push to origin");
         System.out.println("Cleansing - Update 7 on Local to push to origin");
         System.out.println("Cleansing - Update 7.5 on Local to push to origin");
+        System.out.println("Cleansing - Update 8 on Local to push to origin");
       
        
 
