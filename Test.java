@@ -13,6 +13,7 @@ public class Test {
         System.out.println("Cleansing - Update 4 on Local to push to origin");
         System.out.println("Cleansing - Update 5 on Local to push to origin");
         System.out.println("Cleansing - Update 6 on Local to push to origin");
+        System.out.println("Cleansing - Update 6.5 on Local to push to origin");
       
        
 
